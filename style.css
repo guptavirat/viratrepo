@@ -5,7 +5,7 @@ body {
         margin-bottom: 50px;
 }
 .bg-p {
-    background-color: #54b689;
+    background-color: #6eddff;
     color: white;
 }
 
@@ -34,7 +34,7 @@ padding-bottom: 50px;
     display: table;
 }
 .list-unstyled.tag-list > li  {
-    float: left;
+    float: right;
     background: #efefef;
     padding: 10px;
     margin-right: 15px;
